@@ -6,7 +6,7 @@ class Semiuniq < Formula
   homepage ""
   url "https://github.com/kljensen/semiuniq/archive/v0.1.5.tar.gz"
   sha256 "45d6e9010995f1d531de6a5324e6f5e9d714c9b3334f4dee7b1f0f9ca7a11800"
-  license ""
+  license "Unlicense"
 
   depends_on "rust" => :build
 
