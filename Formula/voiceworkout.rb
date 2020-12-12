@@ -4,8 +4,8 @@
 class Voiceworkout < Formula
   desc "Walks you through a workout using a voice on your computer"
   homepage ""
-  url "https://github.com/kljensen/voiceworkout/archive/v1.1.tar.gz"
-  sha256 "8891a959d0d07dfa497fafbd81df49802b087605192247b477391964f7ff3113"
+  url "https://github.com/kljensen/voiceworkout/archive/v1.3.tar.gz"
+  sha256 "bd8cea24005cb39716ad9236a69562881fa0e3a83a7d5f222f423f94b9d91e9b"
   license "Unlicense"
 
   depends_on "go" => :build
