@@ -4,8 +4,8 @@
 class Semiuniq < Formula
   desc "A uniq-like tool for removing nearby repeated lines in a file""
   homepage ""
-  url "https://github.com/kljensen/semiuniq/archive/0.1.0.tar.gz"
-  sha256 "e853731bd3d1b51112376fe65d044198e0637a995583a5005b588deea22dfe00"
+  url "https://github.com/kljensen/semiuniq/archive/v0.1.4.tar.gz"
+  sha256 "f2e50b5ba6817bc10919f8ea23be00e49f952c708876baa470429e1b86a021ac"
   license ""
 
   depends_on "rust" => :build
