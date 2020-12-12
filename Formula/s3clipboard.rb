@@ -3,8 +3,8 @@
 class S3clipboard < Formula
   desc "A shared clipboard to copy and paste between machines using S3"
   homepage ""
-  url "https://github.com/kljensen/s3clipboard/archive/v0.1.0.tar.gz"
-  sha256 "4631bfef55687d8ee916d27379a497f241d4315839dd8d6de9950abe2852556d"
+  url "https://github.com/kljensen/s3clipboard/archive/v0.1.3.tar.gz"
+  sha256 "e7adead5b5e0edfc115ec079e07564459f446cfbe87bbe257ffaf86409ae82de"
   license "Unlicense"
 
 
